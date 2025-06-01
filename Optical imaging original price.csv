@@ -1,0 +1,409 @@
+﻿Mono High & Medium-Resolution Satellite Imagery Price List,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Satellite(s),Product + Resolution,Archive -> 90 days,Archive -≤ 90 days,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo," 30-cm 6-band PS
+","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo,"30-cm Pan + 1.2-m MS  
+全色一个波段 多光谱四个波段","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4," 30-cm 4-band PS
+","$22.50/km2 25 km2 Pan = $19
+15-cm HD - +$3.50","$32.50/km2 25 km2 Pan = $29
+15-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4,30-cm Pan + 1.2-m MS,"$22.50/km2 25 km2 Pan = $19
+15-cm HD - +$3.50","$32.50/km2 25 km2 Pan = $29
+15-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-3,30-cm Pan + 1.2-m 8-band MS,$24/km2 25 km2,$34/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-3,"3.7-m 8-band SWIR only
+专门用于短波红外波段",$24/km2 25 km2,$34/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BJ3N,30-cm  Pan  +  1.2-m  4-band MS,$16/km2 25 km2,$16/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1 Daytime,30-cm  Pan  +  1.2-m  4-band MS,"$22/km2 25 km2
+> 60 days","$22/km2 25 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView NEO-1,30-cm Pan + 1.2-m 4-band MS,$20/km2 25 km2,$20/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-2,40-cm Pan + 1.6-m 4-band MS,$18/km2 25 km2,$18/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 40-cm Pan
+","$19.50/km2 25 km2 Pan = $16
+30-cm HD - +$3.50","$29.50/km2 25 km2 Pan = $26
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 40-cm 4-band PS
+","$19.50/km2 25 km2 Pan = $16
+30-cm HD - +$3.50","$29.50/km2 25 km2 Pan = $26
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,40-cm Pan + 1.6-m MS,"$19.50/km2 25 km2 Pan = $16
+30-cm HD - +$3.50","$29.50/km2 25 km2 Pan = $26
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,40-cm Pan + 1.6-m 8-band MS,$21/km2 25 km2,$31/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 50-cm Pan
+","$17.50/km2 25 km2 Pan = $14
+30-cm HD - +$3.50","$27.50/km2 25 km2 Pan = $24
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 50-cm 4-band PS
+","$17.50/km2 25 km2 Pan = $14
+30-cm HD - +$3.50","$27.50/km2 25 km2 Pan = $24
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,50-cm Pan + 2-m MS,"$17.50/km2 25 km2 Pan = $14
+30-cm HD - +$3.50","$27.50/km2 25 km2 Pan = $24
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,50-cm Pan + 2-m 8-band MS,$19/km2 25 km2,$29/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1," 50-cm 4-band PS
+",$12.50/km2 25 km2,$12.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1,50-cm Pan + 2-m MS,$12.50/km2 25 km2,$12.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-1,50-cm Pan,"$14/km2 25 km2
+30-cm HD - +$3.50","$24/km2 25 km2
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-1,50-cm Pan + 2-m 4-band MS,$14/km2 25 km2,$14/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1 Daytime,50-cm Pan + 2-m 4-band MS,"$8/km2 25 km2
+> 60 days","$8/km2 25 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BJ3A,50-cm Pan + 2-m 4-band MS,$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SkySat,65-cm Pan + 81-cm 4-band MS,$6.50/km2 25 km2,$6.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also","55-cm 4-band PS
+",$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also",55-cm Pan + 2.2-m MS,$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QuickBird,60-cm Pan ,$17.50/km2 25 km2 Pan = $14,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QuickBird," 60-cm 4-band PS
+",$17.50/km2 25 km2 Pan = $14,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QuickBird,60-cm Pan + 2.4-m MS,$17.50/km2 25 km2 Pan = $14,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 1/2/3/4 QuickBird,"70-cm Pan
+",$10.50/km2 25 km2 Pan = $7,$10.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 1/2/3/4 QuickBird," 70-cm 4-band PS
+",$10.50/km2 25 km2 Pan = $7,$10.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 1/2/3/4 QuickBird,70-cm Pan + 2.8-m MS,$10.50/km2 25 km2 Pan = $7,$10.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,70-cm Pan + 2.8-m 8-band MS,$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3
+** delivered at 50- cm / 2-m also"," 70-cm 4-band PS
+",$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3
+** delivered at 50- cm / 2-m also",70-cm Pan + 2.8-m MS,$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EROS B,70-cm Pan,"$10/km2 25 km2
+> 30 days","$14/km2 25 km2
+≤ 30 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2," 75-cm 4-band PS
+",$7/km2 25 km2,$7/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2,1-m Pan + 4-m MS,$7/km2 25 km2,$7/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IKONOS,80-cm Pan + 3.2-m MS (only),$10/km2 25 km2,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-2,80-cm Pan + 3.2-m MS,"$4.50/km2 25 km2
+Pan = $2.70","$4.50/km2 25 km2
+Pan = $2.70",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-2,80-cm Pan + 3.2-m MS,"$4.50/km2 25 km2
+Pan = $2.70","$4.50/km2 25 km2
+Pan = $2.70",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TripleSat (BJ2),80-cm Pan + 3.2-m MS,$6/km2 25 km2,$6/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1 Daytime,72-cm to 1.06-m Pan + 2.88-m to 4.24-m MS,"$6/km2 25 km2
+> 60 days","$6/km2 25 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TeLEOS-1,1-m Pan,$4/km2 100 km2,$4/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-1,1-m Pan + 4-m MS,$3/km2 100 km2,$3/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-2," 1-m 4-band PS
+",$4/km2 25 km2,$4/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-2,1-m Pan + 4-m MS,$4/km2 25 km2,$4/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPOT 6/7," 1.5-m 4-band PS
+",$2.50/km2 100 km2,$2.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPOT 6/7,"
+1.5-m Pan + 6-m MS",$2.50/km2 100 km2,$2.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FORMOSAT-5,"2-m Pan 
+",$1.60/km2 200 km2,$1.60/km2 200 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FORMOSAT-5,"2-m Pan or 4-m MS
+2-m Pan + 4-m MS (+ 30%)",$1.60/km2 200 km2,$1.60/km2 200 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FORMOSAT-2,"2-m Pan or 8-m MS
+2-m Pan + 8-m MS (+ 30%)",$1.60/km2 200 km2,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-1,2-m Pan ,$1.70/km2 500 km2 Pan = $1.00,$1.70/km2 500 km2 Pan = $1.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-1,2-m Pan + 8-m MS,$1.70/km2 500 km2 Pan = $1.00,$1.70/km2 500 km2 Pan = $1.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EROS A,2-m Pan,$0.50/km2 375 km2,$0.50/km2 375 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZiYuan-3,2.1-m Pan,$2.10/km2 500 km2 Pan = $1.20,$2.10/km2 500 km2 Pan = $1.20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZiYuan-3,2.1-m Pan + 5.8-m MS,$2.10/km2 500 km2 Pan = $1.20,$2.10/km2 500 km2 Pan = $1.20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PlanetScope,"3-m 3, 4 or 8-band MS",$2.25/km2 250 km2,$2.25/km2 250 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RapidEye,5-m 5-band MS,$1.28/km2 375 km2,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPOT 6/7,6-m Natural Color 6-m 4-band MS,$1.15/km2 100 km2,$1.15/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-2,"Level 2 6.5-m 5-band MS +
+RPC’s",$0.60/km2 500 km2,$0.60/km2 500 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OHS,10-m 32-band,"$2/km2 2,500 km2","$2/km2 2,500 km2",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Stereo," 30-cm 6-band PS
+",$42.50/km2 25 km2,$42.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Stereo,30-cm Pan + 1.2-m MS,$42.50/km2 25 km2,$42.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Tri-Stereo," 30-cm 6-band PS
+",$55/km2 25 km2,$55/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Tri-Stereo,"
+30-cm Pan + 1.2-m MS",$55/km2 25 km2,$55/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4, 30-cm Pan,$45/km2 100 km2 Pan = $38,$65/km2 100 km2 Pan = $58,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4," 30-cm 4-band PS
+",$45/km2 100 km2 Pan = $38,$65/km2 100 km2 Pan = $58,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4,30-cm Pan + 1.2-m MS,$45/km2 100 km2 Pan = $38,$65/km2 100 km2 Pan = $58,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-3,30-cm Pan + 1.2-m 8-band MS,$48/km2 100 km2,$68/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3N
+Stereo",30-cm Pan + 1.2-m 4-band MS,$30/km2 25 km2,$30/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3N
+Tri-Stereo",30-cm Pan + 1.2-m 4-band MS,$38/km2 25 km2,$38/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView Neo-1,30-cm Pan + 1.2-m 4-band MS,$40/km2 100 km2,$40/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-2,40-cm Pan + 1.6-m 4-band MS,$36/km2 100 km2,$36/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4, 40-cm Pan,$39/km2 100 km2 Pan = $32,$59/km2 100 km2 Pan = $52,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 40-cm 4-band PS
+",$39/km2 100 km2 Pan = $32,$59/km2 100 km2 Pan = $52,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,40-cm Pan + 1.6-m MS,$39/km2 100 km2 Pan = $32,$59/km2 100 km2 Pan = $52,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,40-cm Pan + 1.6-m 8-band MS,$42/km2 100 km2,$62/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,50-cm Pan,$35/km2 100 km2 Pan = $28,$55/km2 100 km2 Pan = $48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 50-cm 4-band PS
+",$35/km2 100 km2 Pan = $28,$55/km2 100 km2 Pan = $48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,"
+50-cm Pan + 2-m MS",$35/km2 100 km2 Pan = $28,$55/km2 100 km2 Pan = $48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,50-cm Pan + 2-m 8-band MS,$38/km2 100 km2,$58/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Stereo," 50-cm 4-band PS
+",$25/km2 25 km2,$25/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Stereo,50-cm Pan + 2-m MS,$25/km2 25 km2,$25/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Tri-Stereo," 50-cm 4-band PS
+",$37.50/km2 25 km2,$37.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Tri-Stereo,50-cm Pan + 2-m MS,$37.50/km2 25 km2,$37.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-1,50-cm Pan,$28/km2 100 km2,$48/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-1,50-cm Pan + 2-m 4-band MS,$28/km2 100 km2,$28/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3A
+Stereo",50-cm Pan + 2-m 4-band MS,$24/km2 25 km2,$24/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3A
+Tri - Stereo",50-cm Pan + 2-m 4-band MS,$30/km2 25 km2,$30/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also","55-cm 4-band PS
+",$16/km2 25 km2,$16/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also",55-cm Pan + 2.2-m MS,$16/km2 25 km2,$16/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-3," 70-cm 4-band PS
+",$16/km2 100 km2,$16/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-3,70-cm Pan + 2.8-m MS,$16/km2 100 km2,$16/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"EROS B
+Stereo",70-cm Pan,"$20/km2 25 km2
+> 30 days","$28/km2 25 km2
+≤ 30 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"EROS B
+Tri-Stereo",70-cm Pan,"$30/km2 25 km2
+> 30 days","$42/km2 25 km2
+≤ 30 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2," 75-cm 4-band PS
+",$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2,75-cm Pan + 3-m MS,$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1,75-cm Pan + 3-m MS,"$18/km2 100 km2
+> 60 days","$18/km2 100 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IKONOS,80-cm Pan + 3.2-m MS (only),$20/km2 100 km2,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-1,1-m Pan + 4-m MS,$7/km2 100 km2,$7/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-2, 1-m 4-band PS,$8/km2 100 km2,$8/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+KOMPSAT-2,1-m Pan + 4-m MS,$8/km2 100 km2,$8/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Stereo"," 1.5-m 4-band PS
+",$5.00/km2 100 km2,$5.00/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Stereo",1.5-m Pan + 6-m MS,$5.00/km2 100 km2,$5.00/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Tri-Stereo"," 1.5-m 4-band PS
+",$7.50/km2 100 km2,$7.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Tri-Stereo",1.5-m Pan + 6-m MS,$7.50/km2 100 km2,$7.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALOS PRISM,2.5-m Pan (per mono image),"$540/scene
+w/RPCs, +$175",N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZiYuan-3,"3.5-m Pan
+2.5-m Pan (as available)",$4.20/km2 500 km2,$4.20/km2 500 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-2,6.5-m 5-band MS + RPCs,$1.20/km2 500 km2,$1.20/km2 500 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo," 30-cm 6-band PS
+","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo,"30-cm Pan + 1.2-m MS  
+全色一个波段 多光谱四个波段","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA","$22.50/km2 25 km2
+15-cm HD - +$3.75
+< 20 degrees ONA",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4," 30-cm 4-band PS
+","$22.50/km2 25 km2 Pan = $19
+15-cm HD - +$3.50","$32.50/km2 25 km2 Pan = $29
+15-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4,30-cm Pan + 1.2-m MS,"$22.50/km2 25 km2 Pan = $19
+15-cm HD - +$3.50","$32.50/km2 25 km2 Pan = $29
+15-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-3,30-cm Pan + 1.2-m 8-band MS,$24/km2 25 km2,$34/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-3,"3.7-m 8-band SWIR only
+专门用于短波红外波段",$24/km2 25 km2,$34/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BJ3N,30-cm  Pan  +  1.2-m  4-band MS,$16/km2 25 km2,$16/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1 Daytime,30-cm  Pan  +  1.2-m  4-band MS,"$22/km2 25 km2
+> 60 days","$22/km2 25 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView NEO-1,30-cm Pan + 1.2-m 4-band MS,$20/km2 25 km2,$20/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-2,40-cm Pan + 1.6-m 4-band MS,$18/km2 25 km2,$18/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 40-cm Pan
+","$19.50/km2 25 km2 Pan = $16
+30-cm HD - +$3.50","$29.50/km2 25 km2 Pan = $26
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 40-cm 4-band PS
+","$19.50/km2 25 km2 Pan = $16
+30-cm HD - +$3.50","$29.50/km2 25 km2 Pan = $26
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,40-cm Pan + 1.6-m MS,"$19.50/km2 25 km2 Pan = $16
+30-cm HD - +$3.50","$29.50/km2 25 km2 Pan = $26
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,40-cm Pan + 1.6-m 8-band MS,$21/km2 25 km2,$31/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 50-cm Pan
+","$17.50/km2 25 km2 Pan = $14
+30-cm HD - +$3.50","$27.50/km2 25 km2 Pan = $24
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 50-cm 4-band PS
+","$17.50/km2 25 km2 Pan = $14
+30-cm HD - +$3.50","$27.50/km2 25 km2 Pan = $24
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,50-cm Pan + 2-m MS,"$17.50/km2 25 km2 Pan = $14
+30-cm HD - +$3.50","$27.50/km2 25 km2 Pan = $24
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,50-cm Pan + 2-m 8-band MS,$19/km2 25 km2,$29/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1," 50-cm 4-band PS
+",$12.50/km2 25 km2,$12.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1,50-cm Pan + 2-m MS,$12.50/km2 25 km2,$12.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-1,50-cm Pan,"$14/km2 25 km2
+30-cm HD - +$3.50","$24/km2 25 km2
+30-cm HD - +$3.50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-1,50-cm Pan + 2-m 4-band MS,$14/km2 25 km2,$14/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1 Daytime,50-cm Pan + 2-m 4-band MS,"$8/km2 25 km2
+> 60 days","$8/km2 25 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BJ3A,50-cm Pan + 2-m 4-band MS,$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SkySat,65-cm Pan + 81-cm 4-band MS,$6.50/km2 25 km2,$6.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also","55-cm 4-band PS
+",$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also",55-cm Pan + 2.2-m MS,$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 1/2/3/4 QuickBird,"70-cm Pan
+",$10.50/km2 25 km2 Pan = $7,$10.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 1/2/3/4 QuickBird," 70-cm 4-band PS
+",$10.50/km2 25 km2 Pan = $7,$10.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 1/2/3/4 QuickBird,70-cm Pan + 2.8-m MS,$10.50/km2 25 km2 Pan = $7,$10.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,70-cm Pan + 2.8-m 8-band MS,$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3
+** delivered at 50- cm / 2-m also"," 70-cm 4-band PS
+",$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3
+** delivered at 50- cm / 2-m also",70-cm Pan + 2.8-m MS,$8/km2 25 km2,$8/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EROS B,70-cm Pan,"$10/km2 25 km2
+> 30 days","$14/km2 25 km2
+≤ 30 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2," 75-cm 4-band PS
+",$7/km2 25 km2,$7/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2,1-m Pan + 4-m MS,$7/km2 25 km2,$7/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-2,80-cm Pan + 3.2-m MS,"$4.50/km2 25 km2
+Pan = $2.70","$4.50/km2 25 km2
+Pan = $2.70",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-2,80-cm Pan + 3.2-m MS,"$4.50/km2 25 km2
+Pan = $2.70","$4.50/km2 25 km2
+Pan = $2.70",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TripleSat (BJ2),80-cm Pan + 3.2-m MS,$6/km2 25 km2,$6/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1 Daytime,72-cm to 1.06-m Pan + 2.88-m to 4.24-m MS,"$6/km2 25 km2
+> 60 days","$6/km2 25 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TeLEOS-1,1-m Pan,$4/km2 100 km2,$4/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-1,1-m Pan + 4-m MS,$3/km2 100 km2,$3/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-2," 1-m 4-band PS
+",$4/km2 25 km2,$4/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-2,1-m Pan + 4-m MS,$4/km2 25 km2,$4/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPOT 6/7," 1.5-m 4-band PS
+",$2.50/km2 100 km2,$2.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPOT 6/7,"
+1.5-m Pan + 6-m MS",$2.50/km2 100 km2,$2.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FORMOSAT-5,"2-m Pan 
+",$1.60/km2 200 km2,$1.60/km2 200 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FORMOSAT-5,"2-m Pan or 4-m MS
+2-m Pan + 4-m MS (+ 30%)",$1.60/km2 200 km2,$1.60/km2 200 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-1,2-m Pan ,$1.70/km2 500 km2 Pan = $1.00,$1.70/km2 500 km2 Pan = $1.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GaoFen-1,2-m Pan + 8-m MS,$1.70/km2 500 km2 Pan = $1.00,$1.70/km2 500 km2 Pan = $1.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EROS A,2-m Pan,$0.50/km2 375 km2,$0.50/km2 375 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZiYuan-3,2.1-m Pan,$2.10/km2 500 km2 Pan = $1.20,$2.10/km2 500 km2 Pan = $1.20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZiYuan-3,2.1-m Pan + 5.8-m MS,$2.10/km2 500 km2 Pan = $1.20,$2.10/km2 500 km2 Pan = $1.20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PlanetScope,"3-m 3, 4 or 8-band MS",$2.25/km2 250 km2,$2.25/km2 250 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPOT 6/7,6-m Natural Color 6-m 4-band MS,$1.15/km2 100 km2,$1.15/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-2,"Level 2 6.5-m 5-band MS +
+RPC’s",$0.60/km2 500 km2,$0.60/km2 500 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OHS,10-m 32-band,"$2/km2 2,500 km2","$2/km2 2,500 km2",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Stereo," 30-cm 6-band PS
+",$42.50/km2 25 km2,$42.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Stereo,30-cm Pan + 1.2-m MS,$42.50/km2 25 km2,$42.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Tri-Stereo," 30-cm 6-band PS
+",$55/km2 25 km2,$55/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades Neo Tri-Stereo,"
+30-cm Pan + 1.2-m MS",$55/km2 25 km2,$55/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4, 30-cm Pan,$45/km2 100 km2 Pan = $38,$65/km2 100 km2 Pan = $58,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4," 30-cm 4-band PS
+",$45/km2 100 km2 Pan = $38,$65/km2 100 km2 Pan = $58,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 3/4,30-cm Pan + 1.2-m MS,$45/km2 100 km2 Pan = $38,$65/km2 100 km2 Pan = $58,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-3,30-cm Pan + 1.2-m 8-band MS,$48/km2 100 km2,$68/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3N
+Stereo",30-cm Pan + 1.2-m 4-band MS,$30/km2 25 km2,$30/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3N
+Tri-Stereo",30-cm Pan + 1.2-m 4-band MS,$38/km2 25 km2,$38/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView Neo-1,30-cm Pan + 1.2-m 4-band MS,$40/km2 100 km2,$40/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-2,40-cm Pan + 1.6-m 4-band MS,$36/km2 100 km2,$36/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4, 40-cm Pan,$39/km2 100 km2 Pan = $32,$59/km2 100 km2 Pan = $52,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 40-cm 4-band PS
+",$39/km2 100 km2 Pan = $32,$59/km2 100 km2 Pan = $52,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,40-cm Pan + 1.6-m MS,$39/km2 100 km2 Pan = $32,$59/km2 100 km2 Pan = $52,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,40-cm Pan + 1.6-m 8-band MS,$42/km2 100 km2,$62/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,50-cm Pan,$35/km2 100 km2 Pan = $28,$55/km2 100 km2 Pan = $48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4," 50-cm 4-band PS
+",$35/km2 100 km2 Pan = $28,$55/km2 100 km2 Pan = $48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GeoEye-1 WorldView- 2/3/4,"
+50-cm Pan + 2-m MS",$35/km2 100 km2 Pan = $28,$55/km2 100 km2 Pan = $48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView- 2/3,50-cm Pan + 2-m 8-band MS,$38/km2 100 km2,$58/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Stereo," 50-cm 4-band PS
+",$25/km2 25 km2,$25/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Stereo,50-cm Pan + 2-m MS,$25/km2 25 km2,$25/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Tri-Stereo," 50-cm 4-band PS
+",$37.50/km2 25 km2,$37.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pléiades 1 Tri-Stereo,50-cm Pan + 2-m MS,$37.50/km2 25 km2,$37.50/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorldView-1,50-cm Pan,$28/km2 100 km2,$48/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SuperView-1,50-cm Pan + 2-m 4-band MS,$28/km2 100 km2,$28/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3A
+Stereo",50-cm Pan + 2-m 4-band MS,$24/km2 25 km2,$24/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"BJ3A
+Tri - Stereo",50-cm Pan + 2-m 4-band MS,$30/km2 25 km2,$30/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also","55-cm 4-band PS
+",$16/km2 25 km2,$16/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"KOMPSAT-3A
+** delivered at 40- cm & 50-cm also",55-cm Pan + 2.2-m MS,$16/km2 25 km2,$16/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-3," 70-cm 4-band PS
+",$16/km2 100 km2,$16/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-3,70-cm Pan + 2.8-m MS,$16/km2 100 km2,$16/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"EROS B
+Stereo",70-cm Pan,"$20/km2 25 km2
+> 30 days","$28/km2 25 km2
+≤ 30 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"EROS B
+Tri-Stereo",70-cm Pan,"$30/km2 25 km2
+> 30 days","$42/km2 25 km2
+≤ 30 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2," 75-cm 4-band PS
+",$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GEOSAT-2,75-cm Pan + 3-m MS,$12/km2 25 km2,$12/km2 25 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jilin-1,75-cm Pan + 3-m MS,"$18/km2 100 km2
+> 60 days","$18/km2 100 km2
+≤ 60 days",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-1,1-m Pan + 4-m MS,$7/km2 100 km2,$7/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KOMPSAT-2, 1-m 4-band PS,$8/km2 100 km2,$8/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+KOMPSAT-2,1-m Pan + 4-m MS,$8/km2 100 km2,$8/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Stereo"," 1.5-m 4-band PS
+",$5.00/km2 100 km2,$5.00/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Stereo",1.5-m Pan + 6-m MS,$5.00/km2 100 km2,$5.00/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Tri-Stereo"," 1.5-m 4-band PS
+",$7.50/km2 100 km2,$7.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SPOT 6/7
+Tri-Stereo",1.5-m Pan + 6-m MS,$7.50/km2 100 km2,$7.50/km2 100 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZiYuan-3,"3.5-m Pan
+2.5-m Pan (as available)",$4.20/km2 500 km2,$4.20/km2 500 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KazEOSat-2,6.5-m 5-band MS + RPCs,$1.20/km2 500 km2,$1.20/km2 500 km2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
