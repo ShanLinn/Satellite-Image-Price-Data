@@ -1,0 +1,61 @@
+﻿,,1,3,4,5,7,,6,8,10,11,,12
+No.,sar sensor,Year of Satellite Launch,"Sensor Manufacturing Cost (SMC)
+(millon$)",Imaging Mode,Ground Range Resolution,"Scene Size Range
+(Range x Azimuth)km","Scene Size Range
+ Azimuth)km",Polarization Type,SAR Operating Bands,Incidence Angle,Minimum Order Area (MOA),PriceType,Price($)
+1,ALOS-2 / PALSAR-2,2014,325,Spotlight,4.98,25,25,Single,L-band,37°,≥5 scenes,Archive,2760 
+2,ALOS-2 / PALSAR-2,2014,325,Stripmap,4.98,55,70,Single / Dual ,L-band,37°,≥5 scenes,Archive,1656 
+3,ALOS-2 / PALSAR-2,2014,325,Stripmap,9.97,55,70,Single / Dual ,L-band,37°,≥5 scenes,Archive,1656 
+4,ALOS-2 / PALSAR-2,2014,325,Stripmap,15.12,70,70,Single / Dual ,L-band,37°,≥5 scenes,Archive,1656 
+5,ALOS-2 / PALSAR-2,2014,325,Stripmap,8.47,40,70, Quad,L-band,37°,≥5 scenes,Archive,1656 
+6,ALOS-2 / PALSAR-2,2014,325,Stripmap,14.46,30,70, Quad,L-band,37°,≥5 scenes,Archive,1656 
+7,ALOS-2 / PALSAR-2,2014,325,ScanSAR,78.93,350.5,335,Single / Dual,L-band,37°,≥3 scenes,Archive,1656 
+8,ALOS-2 / PALSAR-2,2014,325,ScanSAR,158.02,350.5,335,Single / Dual,L-band,37°,≥3 scenes,Archive,552 
+9,ALOS-2 / PALSAR-2,2014,325,ScanSAR,73.44,489.5,355,Single / Dual,L-band,37°,≥3 scenes,Archive,552 
+1,ALOS-2 / PALSAR-2,2014,325,Spotlight,4.98,25,25,Single,L-band,37°,≥5 scenes,NEW,3795 
+2,ALOS-2 / PALSAR-2,2014,325,Stripmap,4.98,55,70,Single / Dual ,L-band,37°,≥5 scenes,NEW,2691 
+3,ALOS-2 / PALSAR-2,2014,325,Stripmap,9.97,55,70,Single / Dual ,L-band,37°,≥5 scenes,NEW,2691 
+4,ALOS-2 / PALSAR-2,2014,325,Stripmap,15.12,70,70,Single / Dual ,L-band,37°,≥5 scenes,NEW,2691 
+5,ALOS-2 / PALSAR-2,2014,325,Stripmap,8.47,40,70, Quad,L-band,37°,≥5 scenes,NEW,2691 
+6,ALOS-2 / PALSAR-2,2014,325,Stripmap,14.46,30,70, Quad,L-band,37°,≥5 scenes,NEW,2691 
+7,ALOS-2 / PALSAR-2,2014,325,ScanSAR,78.93,350.5,335,Single / Dual,L-band,37°,≥3 scenes,NEW,1587 
+8,ALOS-2 / PALSAR-2,2014,325,ScanSAR,158.02,350.5,335,Single / Dual,L-band,37°,≥3 scenes,NEW,1587 
+9,ALOS-2 / PALSAR-2,2014,325,ScanSAR,73.44,489.5,355,Single / Dual,L-band,37°,≥3 scenes,NEW,1587 
+10,COSMO-SkyMed,2007,250,Spotlight,1 m,10,10,Single,X-band,30°–45°,1 scene,NEW,3360 
+11,COSMO-SkyMed,2007,250,Stripmap,3 m,30,30,Single,X-band,30°–45°,1 scene,NEW,2240 
+12,COSMO-SkyMed,2007,250,ScanSAR,15 m,100,100,Single,X-band,30°–45°,1 scene,NEW,1120 
+13,RADARSAT-2,2007,430,Spotlight,1.0 m,20,20,Single,C-band,20°–49°,1,NEW,4440
+14,RADARSAT-2,2007,430,Stripmap,3.0 m,20,20,Single,C-band,20°–49°,1,NEW,3996
+15,RADARSAT-2,2007,430,Stripmap,3.0 m,50,50,Single,C-band,20°–49°,1,NEW,5772
+16,RADARSAT-2,2007,430,Stripmap,5.0 m,125,125,Single,C-band,20°–49°,1,NEW,5550
+17,RADARSAT-2,2007,430,Stripmap,8.0 m,50,50,Single,C-band,20°–49°,1,NEW,3108
+18,RADARSAT-2,2007,430,Stripmap,8.0 m,50,50,Single / Dual,C-band,20°–49°,1,NEW,2664
+19,RADARSAT-2,2007,430,Stripmap,8.0 m,150,150,Single / Dual,C-band,20°–49°,1,NEW,5550
+20,RADARSAT-2,2007,430,Stripmap,8.0 m,50,50,Quad,C-band,20°–49°,1,NEW,3996
+21,RADARSAT-2,2007,430,Stripmap,8.0 m,150,150,Quad,C-band,20°–49°,1,NEW,5772
+22,RADARSAT-2,2007,430,Stripmap,25.0 m,100,100,Single / Dual,C-band,20°–49°,1,NEW,2664
+23,RADARSAT-2,2007,430,Stripmap,25.0 m,25,25,Single,C-band,20°–49°,1,NEW,2664
+24,RADARSAT-2,2007,430,Stripmap,25.0 m,25,25,Single,C-band,20°–49°,1,NEW,2664
+25,RADARSAT-2,2007,430,Stripmap,25.0 m,100,100,Quad,C-band,20°–49°,1,NEW,3996
+26,RADARSAT-2,2007,430,Stripmap,25.0 m,150,150,Quad,C-band,20°–49°,1,NEW,5772
+27,RADARSAT-2,2007,430,ScanSAR,30.0 m,150,150,Single / Dual,C-band,20°–49°,1,NEW,2664
+28,TerraSAR-X,2007,150,Spotlight,0.25 m,4,3.7,Single,X-band,20°–55°,1 scene,NEW,6125
+29,TerraSAR-X,2007,150,Spotlight,1.0 m,10,5,Single,X-band,20°–55°,1 scene,NEW,5625
+30,TerraSAR-X,2007,150,Spotlight,2.0 m,10,10,Single,X-band,20°–55°,1 scene,NEW,4250
+31,TerraSAR-X,2007,150,Stripmap,3.0 m,30,50,Single,X-band,20°–55°,1 scene,NEW,3687.5
+32,TerraSAR-X,2007,150,ScanSAR,18.5 m,100,150,Single,X-band,20°–55°,1 scene,NEW,2187.5
+33,TerraSAR-X,2007,150,ScanSAR,40.0 m,270,200,Single,X-band,20°–55°,1 scene,NEW,2187.5
+28,TerraSAR-X,2007,150,Spotlight,0.25 m,4,3.7,Single,X-band,20°–55°,1 scene,Archive,3062.5
+29,TerraSAR-X,2007,150,Spotlight,1.0 m,10,5,Single,X-band,20°–55°,1 scene,Archive,2812.5
+30,TerraSAR-X,2007,150,Spotlight,2.0 m,10,10,Single,X-band,20°–55°,1 scene,Archive,2125
+31,TerraSAR-X,2007,150,Stripmap,3.0 m,30,50,Single,X-band,20°–55°,1 scene,Archive,1843.75
+32,TerraSAR-X,2007,150,ScanSAR,18.5 m,100,150,Single,X-band,20°–55°,1 scene,Archive,1093.75
+33,TerraSAR-X,2007,150,ScanSAR,40.0 m,270,200,Single,X-band,20°–55°,1 scene,Archive,1093.75
+34,Umbra,2022,5,Spotlight,1.0 m,5,5,Single,X-band,20°–50°,1 scene,NEW,1000
+35,Umbra,2022,5,Spotlight,0.5 m,5,5,Single,X-band,20°–50°,1 scene,NEW,1400
+36,Umbra,2022,5,Spotlight,0.35 m,5,5,Single,X-band,20°–50°,1 scene,NEW,2650
+37,Umbra,2022,5,Spotlight,0.25 m,5,5,Single,X-band,20°–50°,1 scene,NEW,4900
+38,Umbra,2022,5,Spotlight (Natural Footprint),1.0 m,10,14,Single,X-band,20°–50°,1 scene,NEW,2250
+39,Umbra,2022,5,Spotlight (Natural Footprint),0.5 m,10,14,Single,X-band,20°–50°,1 scene,NEW,2850
+40,Umbra,2022,5,Spotlight (Natural Footprint),0.35 m,10,14,Single,X-band,20°–50°,1 scene,NEW,4000
+41,Umbra,2022,5,Spotlight (Natural Footprint),0.25 m,10,14,Single,X-band,20°–50°,1 scene,NEW,5650

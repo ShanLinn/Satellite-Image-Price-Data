@@ -1,0 +1,55 @@
+﻿Year of Satellite Launch,SMC,Imaging Mode,GRR,Polarization Type,SAR Operating Bands,Incidence Angle,MOA,Image Type,Price
+2014,325,Spotlight,4.98,Single,L-band,37,5,Archive,4.416
+2014,325,Stripmap,9.97,Single / Dual ,L-band,37,5,Archive,0.43012987
+2014,325,Stripmap,15.12,Single / Dual ,L-band,37,5,Archive,0.337959184
+2014,325,Stripmap,8.47, Quad,L-band,37,5,Archive,0.591428571
+2014,325,ScanSAR,78.93,Single / Dual,L-band,37,3,Archive,0.014103519
+2014,325,ScanSAR,158.02,Single / Dual,L-band,37,3,Archive,0.004701173
+2014,325,ScanSAR,73.44,Single / Dual,L-band,37,3,Archive,0.003176567
+2014,325,Spotlight,4.98,Single,L-band,37,5,NEW,6.072
+2014,325,Stripmap,9.97,Single / Dual ,L-band,37,5,NEW,0.698961039
+2014,325,Stripmap,15.12,Single / Dual ,L-band,37,5,NEW,0.549183673
+2014,325,Stripmap,8.47, Quad,L-band,37,5,NEW,0.961071429
+2014,325,Stripmap,14.46, Quad,L-band,37,5,NEW,1.281428571
+2014,325,ScanSAR,78.93,Single / Dual,L-band,37,3,NEW,0.013515873
+2014,325,ScanSAR,73.44,Single / Dual,L-band,37,3,NEW,0.00913263
+2007,250,Spotlight,1,Single,X-band,37,1,NEW,33.6
+2007,250,Stripmap,3,Single,X-band,37,1,NEW,2.488888889
+2007,250,ScanSAR,15,Single,X-band,37,1,NEW,0.112
+2007,430,Spotlight,1,Single,C-band,34,1,NEW,11.1
+2007,430,Stripmap,3,Single,C-band,34,1,NEW,9.99
+2007,430,Stripmap,3,Single,C-band,34,1,NEW,2.3088
+2007,430,Stripmap,8,Single,C-band,34,1,NEW,1.2432
+2007,430,Stripmap,8,Single / Dual,C-band,34,1,NEW,1.0656
+2007,430,Stripmap,8,Single / Dual,C-band,34,1,NEW,0.246666667
+2007,430,Stripmap,8,Quad,C-band,34,1,NEW,1.5984
+2007,430,Stripmap,25,Single / Dual,C-band,34,1,NEW,0.2664
+2007,430,Stripmap,25,Single,C-band,34,1,NEW,4.2624
+2007,430,Stripmap,25,Single,C-band,34,1,NEW,4.2624
+2007,430,Stripmap,25,Quad,C-band,34,1,NEW,0.3996
+2007,430,Stripmap,25,Quad,C-band,34,1,NEW,0.256533333
+2007,430,ScanSAR,30,Single / Dual,C-band,34,1,NEW,0.1184
+2007,150,Spotlight,1,Single,X-band,32,1,NEW,112.5
+2007,150,Spotlight,2,Single,X-band,32,1,NEW,42.5
+2007,150,Stripmap,3,Single,X-band,32,1,NEW,2.458333333
+2007,150,ScanSAR,18.5,Single,X-band,32,1,NEW,0.145833333
+2007,150,ScanSAR,40,Single,X-band,32,1,NEW,0.040509259
+2007,150,Spotlight,1,Single,X-band,32,1,Archive,56.25
+2007,150,Stripmap,3,Single,X-band,32,1,Archive,1.229166667
+2007,150,ScanSAR,18.5,Single,X-band,32,1,Archive,0.072916667
+2007,150,ScanSAR,40,Single,X-band,32,1,Archive,0.02025463
+2022,5,Spotlight,1,Single,X-band,32,1,NEW,40
+2022,5,Spotlight,0.5,Single,X-band,32,1,NEW,56
+2022,5,Spotlight,0.35,Single,X-band,32,1,NEW,106
+2022,5,Spotlight,0.25,Single,X-band,32,1,NEW,196
+2022,5,Spotlight,0.5,Single,X-band,32,1,NEW,20.35714286
+2022,5,Spotlight,0.35,Single,X-band,32,1,NEW,28.57142857
+2022,5,Spotlight,0.25,Single,X-band,32,1,NEW,40.35714286
+2014,325,Stripmap,4.98,Single / Dual ,L-band,37,5,Archive,0.43012987
+2014,325,Stripmap,14.46, Quad,L-band,37,5,Archive,0.788571429
+2014,325,Stripmap,4.98,Single / Dual ,L-band,37,5,NEW,0.698961039
+2014,325,ScanSAR,158.02,Single / Dual,L-band,37,3,NEW,0.013515873
+2007,430,Stripmap,5,Single,C-band,34,1,NEW,0.3552
+2007,430,Stripmap,8,Quad,C-band,34,1,NEW,0.256533333
+2022,5,Spotlight,1,Single,X-band,32,1,NEW,16.07142857
+2007,150,Spotlight,2,Single,X-band,32,1,Archive,21.25
